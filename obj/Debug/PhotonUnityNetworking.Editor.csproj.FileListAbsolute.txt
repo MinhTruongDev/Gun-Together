@@ -1,0 +1,2 @@
+D:\Projects\Unity-Projects\Gun Together\obj\Debug\PhotonUnityNetworking.Editor.csproj.AssemblyReference.cache
+D:\Projects\Unity-Projects\Gun Together\obj\Debug\PhotonUnityNetworking.Editor.csproj.CoreCompileInputs.cache

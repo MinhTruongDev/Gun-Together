@@ -1,0 +1,2 @@
+D:\Projects\Unity-Projects\Gun Together\obj\Debug\PunDemos.DemoHubEditor.csproj.AssemblyReference.cache
+D:\Projects\Unity-Projects\Gun Together\obj\Debug\PunDemos.DemoHubEditor.csproj.CoreCompileInputs.cache

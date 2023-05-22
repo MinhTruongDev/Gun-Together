@@ -1,0 +1,2 @@
+D:\Projects\Unity-Projects\Gun Together\obj\Debug\OnwershipTestsASMDEF.csproj.AssemblyReference.cache
+D:\Projects\Unity-Projects\Gun Together\obj\Debug\OnwershipTestsASMDEF.csproj.CoreCompileInputs.cache
